@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="chrome_extensions.js" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/Libs/js/chrome_extensions.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Libs/js/chrome_extensions.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="http://developer.chrome.com/extensions/api_index.html" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>
